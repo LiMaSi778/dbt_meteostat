@@ -1,7 +1,7 @@
 version: 2
 sources:
 - name: weather_data
-  schema: s_afrasohail
+  schema: s_lindasiegert
   tables:
     - name: weather_daily_raw
     - name: weather_hourly_raw
